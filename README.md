@@ -1,2 +1,2 @@
-# Numerical-methods
-Python numerical methods pack
+# Numerical Methods
+
